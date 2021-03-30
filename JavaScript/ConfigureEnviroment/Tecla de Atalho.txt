@@ -1,0 +1,8 @@
+Ctrl + Alt + n
+ Realiza a leitura do código e por baixa roda o node
+ 
+ 
+Ctrl + Shift + p
+ Abre uma funcionalidade de recurso
+  Aproveitando o ensejo: caso não estive executando o comando 'code' pelo terminal:
+   Digite "code" nessa barra de opções e seleciona algo como  Shell Command Install 'code' in Path
